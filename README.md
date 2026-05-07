@@ -6,6 +6,7 @@
 
 A high-performance semantic search implementation utilizing **PostgreSQL** as a vector database. This project demonstrates how to store high-dimensional text embeddings and perform cosine similarity searches using the `pgvector` extension and OpenAI's `text-embedding-3-small` model.
 
+
 ---
 
 ## 🚀 The Tech Stack
